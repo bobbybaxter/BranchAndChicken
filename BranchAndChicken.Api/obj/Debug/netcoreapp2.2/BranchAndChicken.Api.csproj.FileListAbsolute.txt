@@ -1,0 +1,16 @@
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\BranchAndChicken.Api.deps.json
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\BranchAndChicken.Api.runtimeconfig.json
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\BranchAndChicken.Api.runtimeconfig.dev.json
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\BranchAndChicken.Api.dll
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\BranchAndChicken.Api.pdb
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.csprojAssemblyReference.cache
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.RazorAssemblyInfo.cache
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.RazorAssemblyInfo.cs
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.AssemblyInfoInputs.cache
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.AssemblyInfo.cs
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.dll
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\obj\Debug\netcoreapp2.2\BranchAndChicken.Api.pdb
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Bob\source\repos\BranchAndChicken\BranchAndChicken.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
